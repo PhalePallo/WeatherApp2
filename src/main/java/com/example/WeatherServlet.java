@@ -7,7 +7,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-eimport java.io.PrintWriter;
+import java.io.PrintWriter;  // Corrected line
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
